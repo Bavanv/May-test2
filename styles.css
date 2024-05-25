@@ -222,13 +222,9 @@ h2{
 
 .footer-section{
     background-color: black;
-    width: 100%;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: auto;
-    box-sizing: border-box;
-    font-size: 20px;
+    justify-content: space-evenly;
+    padding: 0 2%;
 }
 .icon-footer{
     justify-content: end;
